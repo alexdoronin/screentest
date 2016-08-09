@@ -1,13 +1,14 @@
 # Screentest
-1) Show info about device's resolutions. It shows CSS resolution, device screen ratio, physical resolution.
+Screentest.html will help you to test resolutions on different devices. You will be able to better understand behavior of breakpoints on different devices/screens.
 
-2) It displays range in which you are.
+1) It shows info about screen: CSS resolution, device screen ratio, physical resolution.
 
-# Description
-Sometimes it useful to see what resolution do you have on your devices. What breakpoints we need for this device and how it will work on it.
+2) It displays range in which you are (in terms of breakpoint's ranges).
 
-This simple html with small JS helps. Just put it somewhere on the web and open
-on your device.
+## Description
+Sometimes it useful to see what resolution do you have on your devices. What breakpoints will we need for this device. How do you need to work with it.
+
+This simple html with small JS helps. Just put this page somewhere on the web and open on your device.
 
 You could set an array of breakpoints. There are three points and four ranges.
 
