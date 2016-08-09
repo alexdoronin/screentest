@@ -6,7 +6,7 @@ Screentest.html will help you to test resolutions on different devices. You will
 2) It displays range in which you are (in terms of breakpoint's ranges).
 
 ## Description
-Sometimes it useful to see what resolution do you have on your devices. What breakpoints will we need for this device. How do you need to work with it.
+Sometimes it useful to see what resolution do you have on your devices. What breakpoints will you need for this device. How do you need to work with it.
 
 This simple html with small JS helps. Just put this page somewhere on the web and open on your device.
 
